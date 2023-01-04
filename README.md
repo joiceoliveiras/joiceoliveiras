@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Joiceoliveiras&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> </p>
 
-<div align="center"> <a href="https://youtube.com/@joic7429" target="_blank"><img src="https://img.shields.io/badge/-youtube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white"</a> <a href="joiceoliveiras@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23E4405F?style=for-the-badge&logo=email&logoColor=white"</a> 
+<div align="center"> <a href="https://youtube.com/@joic7429" target="_blank"><img src="https://img.shields.io/badge/-youtube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white"</a> <a href="joicedeoliveirasantana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23E4405F?style=for-the-badge&logo=Email&logoColor=white"</a> 
   <a href="www.linkedin.com/in/joice-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=LinkedIn&logoColor=white"</a>
   </div>
   
