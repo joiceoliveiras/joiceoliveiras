@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4789&height=120&section=header&text=&fontSize=25&fontColor=89DAFF&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084B83&height=120&section=header&text=&fontSize=25&fontColor=89DAFF&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3366&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+JOICE+DE+OLIVEIRA;TENHO+22+ANOS;SOU+DE+SALVADOR,+BA+-+BRASIL;ESTUDO+DESENVOLVIMENTO+FRONTEND;OBRIGADA+POR+VISITAR+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5CA4A9&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+JOICE+DE+OLIVEIRA;TENHO+22+ANOS;SOU+DE+SALVADOR,+BA+-+BRASIL;ESTUDO+DESENVOLVIMENTO+FRONTEND;OBRIGADA+POR+VISITAR+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joiceoliveiras&show_icons=true&count_private=true&hide_border=true&title_color=FDFFFC&icon_color=4F4789&text_color=c9d1d9&bg_color=0d1117" alt="Joice De Oliveira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joiceoliveiras&layout=compact&hide_border=true&title_color=FDFFFC&text_color=FDFFFC&bg_color=0d1117" /> </div> 
@@ -22,4 +22,4 @@
   
   <div align="center"> <br><p align="centre"><b>Visitors Count</b></p> <p align="center"><img align="center" src="https://profile-counter.glitch.me/{joiceoliveiras}/count.svg" /></p> <br></div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4789&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084B83&height=120&section=footer"/>
