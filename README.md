@@ -4,7 +4,7 @@
 
 ### My stats
 
-<div align="center"> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joiceoliveiras&show_icons=true&count_private=true&hide_border=true&title_color=FDFFFC&icon_color=4F4789&text_color=c9d1d9&bg_color=0d1117" alt="Joice De Oliveira github stats" /> 
+<div align="center"> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joiceoliveiras&show_icons=true&count_private=true&hide_border=true&title_color=FDFFFC&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Joice De Oliveira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joiceoliveiras&layout=compact&hide_border=true&title_color=FDFFFC&text_color=FDFFFC&bg_color=0d1117" /> </div> 
 
 
