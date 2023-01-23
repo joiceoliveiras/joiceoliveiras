@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084B83&height=120&section=header&text=&fontSize=25&fontColor=89DAFF&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C4DDF2&height=120&section=header&text=&fontSize=25&fontColor=89DAFF&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5CA4A9&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+JOICE+DE+OLIVEIRA;TENHO+22+ANOS;SOU+DE+SALVADOR,+BA+-+BRASIL;ESTUDO+DESENVOLVIMENTO+FRONTEND;OBRIGADA+POR+VISITAR+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ECDCF2&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+ME+CHAMO+JOICE+DE+OLIVEIRA;TENHO+22+ANOS;SOU+DE+SALVADOR,+BA+-+BRASIL;ESTUDO+DESENVOLVIMENTO+FRONTEND;OBRIGADA+POR+VISITAR+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
 
 ### My stats
 
@@ -26,4 +26,4 @@
   
   <div align="center"> <br><p align="centre"><b>Visitors Count</b></p> <p align="center"><img align="center" src="https://profile-counter.glitch.me/{joiceoliveiras}/count.svg" /></p> <br></div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084B83&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C4DDF2&height=120&section=footer"/>
