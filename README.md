@@ -20,6 +20,7 @@
   
   <div align="center"> <a href="https://youtube.com/@joic7429" target="_blank"><img src="https://img.shields.io/badge/-youtube-084B83?style=for-the-badge&logo=youtube&logoColor=white"</a> <a href="mailto:joicedeoliveirasantana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-084B83?style=for-the-badge&logo=gmail&logoColor=white"</a> 
   <a href="https://www.linkedin.com/in/joice-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-084B83?style=for-the-badge&logo=linkedIn&logoColor=white"</a>
+    <a href="https://[www.linkedin.com/in/joice-de-oliveira](https://www.instagram.com/j.o.dev/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"</a>
   </div>
   
   
