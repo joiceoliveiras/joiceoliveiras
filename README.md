@@ -22,6 +22,5 @@
   <a href="https://www.linkedin.com/in/joice-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-084B83?style=for-the-badge&logo=linkedIn&logoColor=white"</a>
   </div>
   
-  <div align="center"> <br><p align="centre"><b>Visitors Count</b></p> <p align="center"><img align="center" src="https://profile-counter.glitch.me/{joiceoliveiras}/count.svg" /></p> <br></div>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C4DDF2&height=120&section=footer"/>
