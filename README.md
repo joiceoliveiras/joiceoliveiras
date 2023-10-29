@@ -18,7 +18,10 @@
   ### Studying in this moment: ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117&textColor=0D1117)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117&textColor=0D1117)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
   
   
-  <div align="center" <a href="https://www.instagram.com/j.o.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"</a> <a href="mailto:joicedeoliveirasantana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-084B83?style=for-the-badge&logo=gmail&logoColor=white"</a> 
+  <div align="center" <a href="https://www.instagram.com/j.o.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"</a> 
+   
+  <a href="mailto:joicedeoliveirasantana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-084B83?style=for-the-badge&logo=gmail&logoColor=white"</a> 
+  
   <a href="https://www.linkedin.com/in/joice-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-084B83?style=for-the-badge&logo=linkedIn&logoColor=white"</a>
   </div>
   
