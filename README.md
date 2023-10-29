@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C4DDF2&height=120&section=header&text=&fontSize=25&fontColor=89DAFF&animation=twinkling&fontAlignY=35"/>
 
+## Desenvolvedora frontend apaixonada por criar soluções criativas e únicas para tornar a web um lugar melhor. Meu objetivo é criar projetos que inspirem e impactem as pessoas de maneira positiva. Além disso, adoro compartilhar meu conhecimento e aprender com outras pessoas.
+
 ### My stats
 
 <div align="center"> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joiceoliveiras&show_icons=true&count_private=true&hide_border=true&title_color=FDFFFC&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Joice De Oliveira github stats" /> 
