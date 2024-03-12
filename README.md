@@ -1,4 +1,5 @@
-### 🚀 Bem-vindo(a)<br>Oi, me chamo, Joice e estou estudando desenvolvimento Frontend. Atualmente, estou dominando HTML, CSS, JavaScript e React<br><br>
+### 🚀 Bem-vindo(a)<br><br>
+Oi, me chamo, Joice e estou estudando desenvolvimento Frontend. Atualmente, estou dominando HTML, CSS, JavaScript e React<br><br>
 ### Sobre Mim <br>
 - 🚀 👩‍💻 Estudante autodidata, sempre em busca de novos conhecimentos. <br>
 - 📚 Aprendo por meio de cursos online e aplico o aprendizado em projetos práticos. <br>
