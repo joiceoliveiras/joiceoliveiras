@@ -1,29 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color= DB7093&height=120&section=header&text=&fontSize=25&fontColor=89DAFF&animation=twinkling&fontAlignY=35"/>
-
-## Desenvolvedora frontend apaixonada por criar soluções criativas e únicas para tornar a web um lugar melhor. Meu objetivo é criar projetos que inspirem e impactem as pessoas de maneira positiva. Além disso, adoro compartilhar meu conhecimento e aprender com outras pessoas.
-
-### My stats
-
-<div align="center"> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joiceoliveiras&show_icons=true&count_private=true&hide_border=true&title_color=FDFFFC&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Joice De Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joiceoliveiras&layout=compact&hide_border=true&title_color=FDFFFC&text_color=FDFFFC&bg_color=0d1117" /> </div> 
+# 💫 About Me:
+# 🚀 Bem-vindo(a)<br>Oi, me chamo, Joice estou estudando desenvolvimento Frontend. Atualmente, estou dominando HTML, CSS, JavaScript e React<br><br>## Sobre Mim <br>- 🚀 👩‍💻 Estudante autodidata, sempre em busca de novos conhecimentos. <br>- 📚 Aprendo por meio de cursos online e aplico o aprendizado em projetos práticos. <br>- 🤝 Sempre disposta a aprender com a comunidade e compartilhar o que sei.<br><br><br>## O que você encontrará aqui?<br>- 🎨 Projetos frontend, desde designs simples até desafios mais complexos. <br>- 💡 Dicas e insights que aprendi ao longo do caminho. <br>- 🤝 🌐 Conexões com colegas devs para trocar experiências.<br><br>## Projetos em Destaque <br>- 🚀 [Projeto A](link_projeto_a): Descrição breve do primeiro projeto. <br>- 🌈 [Projeto B](link_projeto_b): Descrição breve do segundo projeto.<br><br>Sinta-se à vontade para explorar meus projetos, aprender comigo e fazer parte desta jornada emocionante! 🚀
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@j.o.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joice-de-oliveira) 
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Joiceoliveiras&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> </p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=joiceoliveiras&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=joiceoliveiras&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joiceoliveiras&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-  
-  ### Main skills: ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D117&textColor=0D1117)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-  
-  ### Tools: ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp; <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; --> ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; 
-  
-  
-  ### Studying in this moment: ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117&textColor=0D1117)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117&textColor=0D1117)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
-  
-  
-  <div align="center" 
-   <a href="mailto:joicedeoliveirasantana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-084B83?style=for-the-badge&logo=gmail&logoColor=white"</a> 
-  <a href="https://www.linkedin.com/in/joice-de-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-084B83?style=for-the-badge&logo=linkedIn&logoColor=white"</a>
-  </div>
-  
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C4DDF2&height=120&section=footer"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=joiceoliveiras&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
