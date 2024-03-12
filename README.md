@@ -4,11 +4,11 @@
 - 📚 Aprendo por meio de cursos online e aplico o aprendizado em projetos práticos. <br>
 - 🤝 Sempre disposta a aprender com a comunidade e compartilhar o que sei.<br><br><br>
 
-  #### O que você encontrará aqui?<br>
+  ### O que você encontrará aqui?<br>
   - 🎨 Projetos frontend, desde designs simples até desafios mais complexos. <br>
-  - 💡 Dicas e insights que aprendi ao longo do caminho. <br>
+  - 💡 Dicas que aprendi ao longo do caminho. <br>
   - 🤝 🌐 Conexões com colegas devs para trocar experiências.<br><br>
-  #### Projetos em Destaque <br>
+  ### Projetos em Destaque <br>
   - 🚀 [Projeto A](link_projeto_a): Descrição breve do primeiro projeto. <br>
   - 🌈 [Projeto B](link_projeto_b): Descrição breve do segundo projeto.<br><br>Sinta-se à vontade para explorar meus projetos, aprender comigo e fazer parte desta jornada! 🚀
 
