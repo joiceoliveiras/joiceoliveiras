@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#BC8F8F&height=120&section=header&text=&fontSize=25&fontColor=89DAFF&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color= 	#DB7093&height=120&section=header&text=&fontSize=25&fontColor=89DAFF&animation=twinkling&fontAlignY=35"/>
 
 ## Desenvolvedora frontend apaixonada por criar soluções criativas e únicas para tornar a web um lugar melhor. Meu objetivo é criar projetos que inspirem e impactem as pessoas de maneira positiva. Além disso, adoro compartilhar meu conhecimento e aprender com outras pessoas.
 
