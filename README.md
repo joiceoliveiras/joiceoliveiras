@@ -10,7 +10,7 @@ Oi, me chamo, Joice e estou estudando desenvolvimento Frontend. Atualmente, esto
   - 💡 Dicas que aprendi ao longo do caminho. <br>
   - 🤝 🌐 Conexões com colegas devs para trocar experiências.<br><br>
   ### Projetos em Destaque <br>
-  - 🚀 [Card de perfil] (https://github.com/joiceoliveiras/Profile-card-link):"Cartão" de perfil com links para redes sociais. <br>
+  - 🚀 [Card de perfil] (https://github.com/joiceoliveiras/Profile-card-link): "Cartão" de perfil com links para redes sociais. <br>
   - 🌈 [Projeto B](link_projeto_b): Descrição breve do segundo projeto.<br><br>Sinta-se à vontade para explorar meus projetos, aprender comigo e fazer parte desta jornada! 🚀
 
 
